@@ -1,16 +1,6 @@
 # 🚀 TrackVia Data Scraper and SharePoint Uploader
 This project automates the process of connecting to TrackVia using Selenium, scraping data from tables, saving the data as CSV files, and uploading the CSV files to a SharePoint folder for easy synchronization with Power BI.
 
-📋 Table of Contents
-Features
-Prerequisites
-Installation
-Configuration
-Usage
-Project Structure
-Troubleshooting# 🚀 TrackVia Data Scraper and SharePoint Uploader
-This project automates the process of connecting to TrackVia using Selenium, scraping data from tables, saving the data as CSV files, and uploading the CSV files to a SharePoint folder for easy synchronization with Power BI.
-
 ## 📋 Table of Contents
 1. [Features](#features)  
 2. [Prerequisites](#prerequisites)  
